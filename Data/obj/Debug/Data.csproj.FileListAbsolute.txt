@@ -1,0 +1,9 @@
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\bin\Debug\Data.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\bin\Debug\Data.pdb
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\bin\Debug\Entity.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\bin\Debug\Entity.pdb
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\obj\Debug\Data.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\Data\obj\Debug\Data.pdb

@@ -1,0 +1,15 @@
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\BusinessVB.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\BusinessVB.pdb
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\BusinessVB.xml
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\Data.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\Entity.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\Data.pdb
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\bin\Debug\Entity.pdb
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.vbprojAssemblyReference.cache
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.Resources.resources
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.vbproj.GenerateResource.cache
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.vbproj.CoreCompileInputs.cache
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.vbproj.CopyComplete
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.dll
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.xml
+D:\Tecsup 2021-1\Desarrollo de Aplicaciones Empresariales Avanzado\Semana 07\Laboratorio\BusinessVB\obj\Debug\BusinessVB.pdb
